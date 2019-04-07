@@ -1,5 +1,15 @@
+@import 'colors';
+
+html, body, #root, #app, #app>div{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  color: $light-orange;
+}
+
 .App {
   text-align: center;
+  height: 100%;
 }
 
 .App-logo {
