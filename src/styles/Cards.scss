@@ -19,4 +19,17 @@
 .weather-card {
     border-left-style: solid;
 
+    .weather-card-section {
+        height: 33.3%;
+        width: 100%;
+
+        h1 {
+            margin-block-end: 0px;
+            margin-block-start: 0px;
+        }
+    }
+}
+
+.datetime-card {
+
 }
